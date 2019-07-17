@@ -53,9 +53,9 @@
 	>>print pyrofilegen.generate_address_min(variation=True)
 	
 >Jenna
->Nelson
->mark.garrett33@yahoo.com
->65 annala drive, p3l 1c2
+Nelson
+mark.garrett33@yahoo.com
+65 annala drive, p3l 1c2
 
 ################### Pseudo-Linked Data ###################
 
