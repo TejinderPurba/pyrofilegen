@@ -8,12 +8,12 @@
 	>>import pyrofilegen
 
 	>>pyrofilegen.generate_profile()
-	Gender: Male <br/>
-	First Name: Bryan \
-	Last Name: Hubbard <br/>
-	Mother's Maiden Name: King<br/>
-	Date of Birth: 08-05-1969<br/>
-	Height: 6'2<br/>
+	Gender: Male 
+	First Name: Bryan 
+	Last Name: Hubbard 
+	Mother's Maiden Name: King
+	Date of Birth: 08-05-1969<
+	Height: 6'2
 	Weight: 221 lbs
 	Street Number: 162
 	Street Name: Anvil Crescent
