@@ -8,7 +8,7 @@ setup(
 	author = 'Tejinder Purba',                   
 	author_email = 'rikkupurba@gmail.com',     
 	url = 'https://github.com/TejinderPurba',  
-	download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    
+	download_url = 'https://github.com/TejinderPurba/pyrofilegen/archive/0.1.tar.gz',    
 	keywords = ['PROFILE', 'GENERATOR', 'REALISTIC', 'CANADIAN', 'FAKE', 'DATA'],   
 	install_requires=[            
 					'faker',
