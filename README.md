@@ -40,6 +40,7 @@
 
 	>>pyrofilegen.generate_profile(format=2, variation=True)
 
+	
 	['FEMALE', 'SARAH', 'GARNER', 'TURNER', '1951', '02', '11', '11-02-1951', "5'3", '126 lbs', '24', 'Browside Avenue', 'Toronto', 'Ontario', 'M5P 2T6', '46.5418009,-80.9053934', '5562940095183059', '03/22', '876', '5028', 'garnersarah2015@gmail.com', 'garner0211', '(416) 330 6497', '431621761', 'G85353017510211', 'XYMB 356', 'AFFINITY CREDIT UNION']
 
 ################### Unlinked Data ###################
@@ -155,6 +156,3 @@ As this package is currently focused on Canadian data, more data can be added wi
 - *canadian_data.csv* which includes the lat-long, street number, name, city, province and postal codes.
 - *canadian_companies.txt* which includes a list of real Canadian companies.
 - *canadian_area_codes.txt* which includes a dict of cities/provinces mapped to their area codes.
-
-
-# pyrofilegen
