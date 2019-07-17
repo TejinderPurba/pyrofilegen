@@ -121,7 +121,7 @@ Currently the list of data that Pyrofilegen can generate is:
 
 ### What version of python do I need?
 
-Barnum should work on python 2.7.x and python 3.x
+Pyrofilegen should work on python 2.7.x and python 3.x
 
 ### How do I use it?
 
