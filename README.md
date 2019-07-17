@@ -41,7 +41,7 @@
 
 	>>pyrofilegen.generate_profile(format=2, variation=True)
 
-	['FEMALE', 'SARAH', 'GARNER', 'TURNER', '1951', '02', '11', '11-02-1951', "5'3", '126 lbs', '24', 'Browside Avenue', 'Toronto', 'Ontario', 'M5P 2T6', '46.5418009,-80.9053934', '5562940095183059', '03/22', '876', '5028', 'garnersarah2015@gmail.com', 'garner0211', '(416) 330 6497', '431621761', 'G85353017510211', 'XYMB 356', 'AFFINITY CREDIT UNION']
+>['FEMALE', 'SARAH', 'GARNER', 'TURNER', '1951', '02', '11', '11-02-1951', "5'3", '126 lbs', '24', 'Browside Avenue', 'Toronto', 'Ontario', 'M5P 2T6', '46.5418009,-80.9053934', '5562940095183059', '03/22', '876', '5028', 'garnersarah2015@gmail.com', 'garner0211', '(416) 330 6497', '431621761', 'G85353017510211', 'XYMB 356', 'AFFINITY CREDIT UNION']
 
 ################### Unlinked Data ###################
 
@@ -52,10 +52,10 @@
 	>>print pyrofilegen.generate_email()
 	>>print pyrofilegen.generate_address_min(variation=True)
 	
-	Jenna
-	Nelson
-	mark.garrett33@yahoo.com
-	65 annala drive, p3l 1c2
+>Jenna
+>Nelson
+>mark.garrett33@yahoo.com
+>65 annala drive, p3l 1c2
 
 ################### Pseudo-Linked Data ###################
 
