@@ -8,7 +8,7 @@
 	>>import pyrofilegen
 
 	>>pyrofilegen.generate_profile()
-	Gender: Male 
+	>Gender: Male 
 	First Name: Bryan 
 	Last Name: Hubbard 
 	Mother's Maiden Name: King
