@@ -1,9 +1,10 @@
 ﻿# Pyrofilegen
-## Installation
-	pip install pyrofilegen
+ 
 ## Usage
 
-################### Linked Data (String) ###################
+################### 
+Linked Data (String) 
+###################
 	
 	>>import pyrofilegen
 
@@ -13,7 +14,7 @@
 	First Name: Bryan 
 	Last Name: Hubbard 
 	Mother's Maiden Name: King
-	Date of Birth: 08-05-1969<
+	Date of Birth: 08-05-1969
 	Height: 6'2
 	Weight: 221 lbs
 	Street Number: 162
@@ -35,7 +36,9 @@
 	Company: Harlequin Enterprises
 	Astrological Sign: Gemini
 	
-################### Linked Data (List, Variation) ###################
+################### 
+Linked Data (List, Variation) 
+###################
 
 	>>import pyrofilegen
 
@@ -43,7 +46,9 @@
 
 	['FEMALE', 'SARAH', 'GARNER', 'TURNER', '1951', '02', '11', '11-02-1951', "5'3", '126 lbs', '24', 'Browside Avenue', 'Toronto', 'Ontario', 'M5P 2T6', '46.5418009,-80.9053934', '5562940095183059', '03/22', '876', '5028', 'garnersarah2015@gmail.com', 'garner0211', '(416) 330 6497', '431621761', 'G85353017510211', 'XYMB 356', 'AFFINITY CREDIT UNION']
 
-################### Unlinked Data ###################
+################### 
+Unlinked Data 
+###################
 
 	>>import pyrofilegen
 
@@ -57,7 +62,9 @@
 	mark.garrett33@yahoo.com
 	65 annala drive, p3l 1c2
 
-################### Pseudo-Linked Data ###################
+################### 
+Pseudo-Linked Data 
+###################
 
 	>>import pyrofilegen
 
