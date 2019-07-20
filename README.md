@@ -154,10 +154,10 @@ Simple Example:
 
 ### Where does the data come from?
 
-The address data stored in the *assets* folder are all real addresses sourced from https://openaddresses.io/.
-The postal codes were then generated for each address using geopy (https://pypi.org/project/geopy/).
-The names and user agents are sourced from the Faker module, which are sourced from an internal data file.
-All other data is randomly generated using the *random* library.
+The address data stored in the *assets* folder are all real addresses sourced from https://openaddresses.io/. <br />
+The postal codes were then generated for each address using geopy (https://pypi.org/project/geopy/). <br />
+The names and user agents are sourced from the Faker module, which are sourced from an internal data file. <br />
+All other data is randomly generated using the *random* library. 
 
 ### How can I add more data?
 As this package is currently focused on Canadian data, more data can be added with ease, but only to the existing Canadian data source files. Possible data additions include:
