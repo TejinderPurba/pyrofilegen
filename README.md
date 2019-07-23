@@ -1,5 +1,5 @@
 ﻿# Pyrofilegen
- 
+Pyrofilegen is a simple python-based application used to easily generate realistic linked pseudo-random data, typically for application testing. 
 ## Usage
 
 ################### 
@@ -85,9 +85,6 @@ Pseudo-Linked Data
 
 	
 ## FAQ
-### What is Pyrofilegen?
-
-Pyrofilegen is a simple python-based application used to easily generate realistic linked pseudo-random data, typically for application testing. 
 
 ### Why did you create Pyrofilegen?
 
